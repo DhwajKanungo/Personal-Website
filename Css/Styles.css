@@ -1,0 +1,22 @@
+
+   
+    body {background-color:#3b6978;}
+    hr{
+    border-style:dotted none none;
+    Border-width:5px;
+    border-color:#f3c623;
+    height: 0px;
+    width:10%;
+
+    }
+h1 {color:#f3c623 ;}
+h3 {color:#f3c623;}
+img:hover{background-color: rgb(233, 27, 27);}
+
+
+.football{
+    background-color: lightsalmon;
+}
+.tennis{background-color: lightyellow;}
+ 
+#heading {font-size: xx-large ;}
